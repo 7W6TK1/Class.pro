@@ -1,3 +1,5 @@
 # External repositories (not versioned within Class.pro repo)
-_X_Pros/
+# Ignore contents of _X_Pros but version the folder itself
+_X_Pros/*
+!_X_Pros/.gitkeep
 
